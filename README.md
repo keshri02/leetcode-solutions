@@ -11,6 +11,7 @@
 | [0238-product-of-array-except-self](https://github.com/keshri02/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/keshri02/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/keshri02/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [1732-find-the-highest-altitude](https://github.com/keshri02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshri02/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/keshri02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
 | ------- |
