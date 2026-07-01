@@ -16,6 +16,7 @@
 | [1732-find-the-highest-altitude](https://github.com/keshri02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keshri02/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/keshri02/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +66,24 @@
 |  |
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshri02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
