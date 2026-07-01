@@ -61,4 +61,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/keshri02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
