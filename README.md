@@ -48,11 +48,13 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/keshri02/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/keshri02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/keshri02/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/keshri02/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keshri02/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/keshri02/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
