@@ -66,6 +66,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/keshri02/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshri02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Binary Search
 |  |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshri02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
