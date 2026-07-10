@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/keshri02/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshri02/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/keshri02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/keshri02/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/keshri02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -46,12 +47,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/keshri02/leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshri02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/keshri02/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/keshri02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
