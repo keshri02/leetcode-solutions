@@ -13,7 +13,6 @@ public:
             window_sum=window_sum-nums[i-k]+nums[i];
             max_sum=max(max_sum,window_sum);
         }
-      //  max_sum=max(max_sum,window_sum);
         return (double)max_sum/k;
     }
 };
