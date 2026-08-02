@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/keshri02/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/keshri02/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/keshri02/leetcode-solutions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/keshri02/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/keshri02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/keshri02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -107,6 +108,7 @@
 | [0053-maximum-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/keshri02/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/keshri02/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/keshri02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +164,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Monotonic Stack
 |  |
