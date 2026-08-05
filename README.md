@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/keshri02/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,4 +187,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/keshri02/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/keshri02/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/keshri02/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
