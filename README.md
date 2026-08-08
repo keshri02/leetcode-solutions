@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keshri02/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/keshri02/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -98,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/keshri02/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keshri02/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/keshri02/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -194,6 +196,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/keshri02/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Depth-First Search
 |  |
