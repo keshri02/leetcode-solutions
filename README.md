@@ -28,6 +28,7 @@
 | [0896-monotonic-array](https://github.com/keshri02/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/keshri02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/keshri02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/keshri02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshri02/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/keshri02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@
 | [0392-is-subsequence](https://github.com/keshri02/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshri02/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -132,6 +135,7 @@
 | [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/keshri02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshri02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshri02/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -179,6 +183,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -210,4 +215,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshri02/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
