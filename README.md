@@ -30,6 +30,7 @@
 | [1089-duplicate-zeros](https://github.com/keshri02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/keshri02/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/keshri02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/keshri02/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -59,6 +60,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/keshri02/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/keshri02/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keshri02/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/keshri02/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshri02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/keshri02/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshri02/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshri02/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Brainteaser
@@ -200,6 +203,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/keshri02/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/keshri02/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/keshri02/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
