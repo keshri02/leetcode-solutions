@@ -40,6 +40,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/keshri02/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keshri02/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshri02/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keshri02/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/keshri02/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/keshri02/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -147,6 +148,7 @@
 | [1510-stone-game-iv](https://github.com/keshri02/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshri02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshri02/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshri02/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keshri02/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -158,6 +160,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshri02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/keshri02/leetcode-solutions/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshri02/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -204,11 +207,13 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/keshri02/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/keshri02/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshri02/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/keshri02/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshri02/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshri02/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keshri02/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
@@ -254,4 +259,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keshri02/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshri02/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
