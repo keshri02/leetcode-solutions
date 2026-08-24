@@ -35,6 +35,7 @@
 | [1672-richest-customer-wealth](https://github.com/keshri02/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/keshri02/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/keshri02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keshri02/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/keshri02/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -72,6 +73,7 @@
 | [0238-product-of-array-except-self](https://github.com/keshri02/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/keshri02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/keshri02/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshri02/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -147,6 +150,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/keshri02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/keshri02/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/keshri02/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/keshri02/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -202,6 +206,7 @@
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/keshri02/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/keshri02/leetcode-solutions/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
@@ -243,11 +248,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/keshri02/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/keshri02/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
