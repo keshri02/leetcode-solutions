@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/keshri02/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keshri02/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/keshri02/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/keshri02/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/keshri02/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/keshri02/leetcode-solutions/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@
 | [0001-two-sum](https://github.com/keshri02/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/keshri02/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/keshri02/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/keshri02/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshri02/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/keshri02/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/keshri02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
