@@ -58,6 +58,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/keshri02/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/keshri02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/keshri02/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Simulation
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/keshri02/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/keshri02/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/keshri02/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keshri02/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshri02/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/keshri02/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
