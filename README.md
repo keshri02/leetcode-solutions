@@ -136,6 +136,7 @@
 | [0125-valid-palindrome](https://github.com/keshri02/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keshri02/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/keshri02/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/keshri02/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshri02/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/keshri02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1544-make-the-string-great](https://github.com/keshri02/leetcode-solutions/tree/master/1544-make-the-string-great) |
@@ -156,6 +157,7 @@
 | [0152-maximum-product-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/keshri02/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/keshri02/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/keshri02/leetcode-solutions/tree/master/1510-stone-game-iv) |
