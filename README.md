@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/keshri02/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/keshri02/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/keshri02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -342,4 +343,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/keshri02/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/keshri02/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
