@@ -40,6 +40,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/keshri02/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/keshri02/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/keshri02/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/keshri02/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keshri02/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/keshri02/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/keshri02/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/keshri02/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
