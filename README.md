@@ -69,6 +69,7 @@
 | [0042-trapping-rain-water](https://github.com/keshri02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/keshri02/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshri02/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/keshri02/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
@@ -84,6 +85,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/keshri02/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/keshri02/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keshri02/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -116,6 +118,7 @@
 | [0088-merge-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/keshri02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1096-brace-expansion-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshri02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keshri02/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -156,6 +159,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/keshri02/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshri02/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/keshri02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keshri02/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/keshri02/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/keshri02/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -235,6 +239,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/keshri02/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/keshri02/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -317,6 +322,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshri02/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
