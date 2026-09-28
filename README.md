@@ -77,6 +77,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/keshri02/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/keshri02/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/keshri02/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/keshri02/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -161,6 +162,7 @@
 | [0125-valid-palindrome](https://github.com/keshri02/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keshri02/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/keshri02/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/keshri02/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/keshri02/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshri02/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/keshri02/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/keshri02/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/keshri02/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/keshri02/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/keshri02/leetcode-solutions/tree/master/1025-divisor-game) |
