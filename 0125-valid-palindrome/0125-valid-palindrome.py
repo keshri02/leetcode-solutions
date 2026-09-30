@@ -4,12 +4,7 @@ class Solution:
         for ch in s:
             if ch.isalnum():
                 result=result+ch.lower()
-       # s=s.lower().replace(" ","")
         t=result[::-1]
-        if t == result:
+        if result==t:
             return True
-        else:
-            return False
-
-
-        
+        return False
