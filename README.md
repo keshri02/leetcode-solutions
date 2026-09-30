@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/keshri02/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshri02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/keshri02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/keshri02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/keshri02/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/keshri02/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/keshri02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/keshri02/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -126,6 +128,7 @@
 | [0015-3sum](https://github.com/keshri02/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/keshri02/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/keshri02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/keshri02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshri02/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/keshri02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1096-brace-expansion-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -214,6 +217,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshri02/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/keshri02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/keshri02/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
@@ -383,6 +387,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/keshri02/leetcode-solutions/tree/master/0169-majority-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshri02/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -417,4 +422,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/keshri02/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshri02/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
