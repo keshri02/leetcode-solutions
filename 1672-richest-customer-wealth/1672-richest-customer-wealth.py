@@ -1,5 +1,5 @@
 class Solution:
-    def maximumWealth(self, accounts: List[List[int]]) -> int:
+    def maximumWealth(self, accounts: list[list[int]]) -> int:
         m=len(accounts)
         n=len(accounts[0])
         temp=[]
@@ -9,6 +9,5 @@ class Solution:
                 add=add+accounts[i][j]
             temp.append(add)
         return max(temp)
-
 
         
