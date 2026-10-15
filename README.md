@@ -56,6 +56,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/keshri02/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/keshri02/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/keshri02/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keshri02/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/keshri02/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshri02/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keshri02/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -112,6 +113,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/keshri02/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/keshri02/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/keshri02/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keshri02/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/keshri02/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/keshri02/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/keshri02/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keshri02/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keshri02/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/keshri02/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
@@ -472,4 +475,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/keshri02/leetcode-solutions/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keshri02/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
