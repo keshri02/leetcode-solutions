@@ -34,6 +34,7 @@
 | [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/keshri02/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/keshri02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1004-max-consecutive-ones-iii](https://github.com/keshri02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/keshri02/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/keshri02/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshri02/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/keshri02/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/keshri02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/keshri02/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/keshri02/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshri02/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -322,6 +324,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshri02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/keshri02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/keshri02/leetcode-solutions/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/keshri02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keshri02/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/keshri02/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keshri02/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -421,6 +424,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshri02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/keshri02/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/keshri02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keshri02/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/keshri02/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Depth-First Search
