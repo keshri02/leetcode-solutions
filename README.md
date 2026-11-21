@@ -254,6 +254,7 @@
 | [0032-longest-valid-parentheses](https://github.com/keshri02/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/keshri02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/keshri02/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/keshri02/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshri02/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/keshri02/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/keshri02/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/keshri02/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/keshri02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keshri02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/keshri02/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -564,6 +566,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keshri02/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/keshri02/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
