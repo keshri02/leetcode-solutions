@@ -286,6 +286,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/keshri02/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/keshri02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keshri02/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/keshri02/leetcode-solutions/tree/master/0412-fizz-buzz) |
