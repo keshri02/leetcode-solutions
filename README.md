@@ -32,6 +32,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/keshri02/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/keshri02/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/keshri02/leetcode-solutions/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/keshri02/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/keshri02/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/keshri02/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/keshri02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -373,6 +374,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshri02/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/keshri02/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/keshri02/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/keshri02/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/keshri02/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/keshri02/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
